@@ -1,0 +1,738 @@
+Company Name,Description,Careers URL
+Google,Search and Technology Giant,https://careers.google.com
+Microsoft,Software and Cloud Services,https://careers.microsoft.com
+Apple,Consumer Electronics and Software,https://jobs.apple.com
+Amazon,E-commerce and Cloud Computing,https://www.amazon.jobs
+Facebook (Meta),Social Media and Technology,https://www.facebook.com/careers
+Tesla,Electric Vehicles and Clean Energy,https://www.tesla.com/careers
+IBM,Information Technology and Services,https://www.ibm.com/employment
+NVIDIA,Graphics Processors and AI Technology,https://careers.nvidia.com
+Intel,Semiconductor and Microprocessor Manufacturing,https://jobs.intel.com
+Salesforce,Customer Relationship Management Software,https://salesforce.wd1.myworkdayjobs.com/External_Career_Site
+Oracle,Database Software and Technology,https://oracle.taleo.net/careersection/2/jobsearch.ftl?lang=en
+SAP,Enterprise Software and Solutions,https://jobs.sap.com
+Adobe,Digital Media and Marketing Software,https://adobe.wd5.myworkdayjobs.com/en-US/adobecareers
+VMware,Cloud Computing and Virtualization Technology,https://careers.vmware.com
+Twitter,Social Networking Service,https://careers.twitter.com
+LinkedIn,Professional Networking Platform,https://careers.linkedin.com
+SpaceX,Aerospace Manufacturer and Space Transport,https://www.spacex.com/careers
+Palantir Technologies,Big Data Analytics,https://www.palantir.com/careers
+Airbnb,Online Marketplace for Lodging and Tourism,https://careers.airbnb.com
+Uber,Ridesharing and Transportation,https://www.uber.com/us/en/careers
+Square,Financial Services and Mobile Payment,https://careers.squareup.com
+Stripe,Online Payment Processing,https://stripe.com/jobs
+Zoom Video Communications,Video Teleconferencing,https://jobs.lever.co/zoom
+Slack Technologies,Business Communication Platform,https://slack.com/careers
+Dropbox,Cloud Storage and File Sharing,https://www.dropbox.com/jobs
+Waymo,Autonomous Driving Technology,https://waymo.com/joinus
+Lyft,Ridesharing Company,https://www.lyft.com/careers
+Pinterest,Image Sharing and Social Media,https://careers.pinterest.com
+Shopify,E-commerce Platform,https://www.shopify.com/careers
+Epic Games,Video Game and Software Developer,https://www.epicgames.com/site/en-US/careers
+Riot Games,Video Game Developer,https://www.riotgames.com/en/work-with-us/jobs
+Electronic Arts (EA),Video Game Company,https://careers.ea.com
+Valve Corporation,Video Game Developer and Distributor,http://www.valvesoftware.com/jobs
+Tencent,Technology and Entertainment Conglomerate,https://careers.tencent.com
+Alibaba,E-commerce, Retail, and Technology,https://careers.alibaba.com
+Baidu,Internet and AI Company,http://talent.baidu.com/external/baidu/index.html
+Huawei,Telecommunications and Consumer Electronics,https://career.huawei.com/reccampportal/portal5/index.html
+Xiaomi,Electronics and Smart Hardware,https://hr.xiaomi.com
+ByteDance,Internet Technology Company Specializing in Content,https://careers.bytedance.com
+Sony,Electronics and Entertainment,https://www.sony.net/SonyInfo/Careers
+Samsung Electronics,Electronics and Information Technology,https://www.samsung.com/us/careers
+LG Electronics,Electronics and Home Appliances,https://www.lg.com/global/careers
+Cisco Systems,Networking Hardware and Telecommunications,https://jobs.cisco.com
+Qualcomm,Semiconductors and Telecommunications,https://www.qualcomm.com/company/careers
+AMD (Advanced Micro Devices),Semiconductor Company,https://jobs.amd.com
+Dell Technologies,Computers and Technology,https://jobs.dell.com
+Hewlett Packard Enterprise (HPE),Enterprise Information Technology,https://careers.hpe.com
+Broadcom,Semiconductor and Infrastructure Software Company,https://careers.broadcom.com
+Micron Technology,Semiconductors and Memory Solutions,https://careers.micron.com
+Texas Instruments,Semiconductor Design and Manufacturing,https://careers.ti.com
+Atlassian,Software Products for Project Management,https://www.atlassian.com/company/careers
+Autodesk,Software for Architecture, Engineering, and Construction,https://www.autodesk.com/careers
+Splunk,Data Platform for Security and Observability,https://www.splunk.com/en_us/careers.html
+Akamai Technologies,Content Delivery Network and Cloud Service,https://akamaijobs.referrals.selectminds.com
+Fortinet,Cybersecurity Solutions,https://www.fortinet.com/corporate/careers
+Palo Alto Networks,Cybersecurity Services,https://jobs.paloaltonetworks.com
+Symantec (Now NortonLifeLock),Cybersecurity Software and Services,https://www.nortonlifelock.com/us/en/careers
+Check Point Software Technologies,Cybersecurity Solutions,https://careers.checkpoint.com
+Zscaler,Cloud-Based Information Security,https://www.zscaler.com/careers
+ServiceNow,Enterprise Cloud Computing,https://careers.servicenow.com
+Workday,Financial Management and Human Capital Management Software,https://www.workday.com/en-us/company/careers.html
+Twilio,Cloud Communications Platform,https://www.twilio.com/company/jobs
+Cloudflare,Web Performance and Security Company,https://www.cloudflare.com/careers
+Okta,Identity Management,https://www.okta.com/company/careers/
+Asana,Work Management Platform,https://asana.com/jobs
+Snowflake,Cloud-Based Data Warehousing,https://careers.snowflake.com
+Elastic,Search and Data Analysis,https://www.elastic.co/about/careers
+UiPath,Robotic Process Automation,https://www.uipath.com/company/careers
+ZoomInfo,B2B Database Software,https://www.zoominfo.com/about/careers
+DocuSign,Electronic Agreement Services,https://www.docusign.com/company/careers
+RingCentral,Cloud Communications Solutions,https://www.ringcentral.com/company/careers.html
+Nutanix,Enterprise Cloud Computing,https://www.nutanix.com/careers
+PTC,Technology Solutions for Industrial Companies,https://www.ptc.com/en/careers
+SolarWinds,IT Management Software,https://solarwinds.jobs
+Red Hat,Open Source Solutions,https://www.redhat.com/en/jobs
+GitHub,Software Development Platform,https://github.com/about/careers
+GitLab,DevOps Platform,https://about.gitlab.com/jobs
+MongoDB,Database Platform,https://www.mongodb.com/careers
+Neo4j,Graph Database Platform,https://neo4j.com/careers
+Arm Holdings,Semiconductor and Software Design,https://careers.arm.com
+TSMC (Taiwan Semiconductor Manufacturing Company),Semiconductor Manufacturing,https://www.tsmc.com/english/careers
+ASML,Semiconductor Manufacturing Equipment,https://www.asml.com/en/careers
+Roku,Digital Media Players and Streaming,https://www.roku.com/about/careers
+Niantic,Augmented Reality Technology,https://nianticlabs.com/jobs
+Unity Technologies,Video Game Software Development,https://careers.unity.com
+Ansys,Engineering Simulation Software,https://www.ansys.com/en/careers
+Cadence Design Systems,Electronic Design Automation,https://www.cadence.com/en_US/home/company/careers.html
+Synopsys,Electronic Design Automation,https://www.synopsys.com/careers.html
+Zillow,Real Estate and Rental Listings,https://www.zillowgroup.com/careers
+Redfin,Real Estate Brokerage,https://www.redfin.com/about/jobs
+Coinbase,Cryptocurrency Exchange,https://www.coinbase.com/careers
+Robinhood,Financial Services and Investing,https://robinhood.com/us/en/careers
+Binance,Cryptocurrency Exchange,https://careers.binance.com
+Infineon Technologies,Semiconductors,https://www.infineon.com/cms/en/careers/
+MediaTek,Semiconductors,https://www.mediatek.com/careers
+GlobalFoundries,Semiconductor Foundry,https://gf.com/about-us/careers
+Accenture,Global Professional Services Company,https://www.accenture.com/us-en/careers
+Amdocs,Software and Services for Communications, Media, and Financial Services,https://careers.amdocs.com
+Analog Devices,Semiconductor Company Specializing in Data Conversion, Signal Processing, and Power Management,https://careers.analog.com
+Arista Networks,Networking and Cloud Solutions,https://www.arista.com/en/company/careers
+Atos,Digital Transformation, IT Services, and Consulting,https://jobs.atos.net
+Avaya,Business Communications Software,https://www.avaya.com/en/about-avaya/careers/
+BMC Software,IT Management Solutions,https://www.bmc.com/careers/careers.html
+Booz Allen Hamilton,Management and Information Technology Consulting Firm,https://careers.boozallen.com
+CA Technologies (Broadcom),Software and Solutions in Security and DevOps,https://jobs.broadcom.com
+Capgemini,Consulting, Technology Services, and Digital Transformation,https://www.capgemini.com/careers
+Citrix Systems,Workspace, Networking, and Analytics Solutions,https://jobs.citrix.com
+Cognizant,IT Services, Including Digital, Technology, Consulting, and Operations Services,https://careers.cognizant.com
+Commvault,Data Protection and Information Management Software,https://www.commvault.com/careers
+Confluent,Data Streaming Platform Based on Apache Kafka,https://www.confluent.io/careers
+CrowdStrike,Cybersecurity Technology Company,https://www.crowdstrike.com/careers/
+CyberArk,Security Software Company,https://www.cyberark.com/careers/
+Datadog,Monitoring and Analytics Platform for Developers, IT Operations Teams, and Business Users,https://www.datadoghq.com/careers/
+Dell EMC,Cloud Computing, Data Storage, and IT Security Solutions,https://jobs.dell.com/category/dell-emc-jobs/375/62937/1
+Deloitte Digital,Digital Consulting and Services,https://www2.deloitte.com/us/en/careers/careers-deloitte-digital.html
+DocuWare,Document Management and Workflow Automation,https://www.docuware.com/company/careers
+Dynatrace,Software Intelligence Company,https://www.dynatrace.com/company/careers/
+Epicor Software,Business Software Solutions,https://www.epicor.com/en-us/company/careers/
+F5 Networks,Application Delivery Networking and Security,https://www.f5.com/company/careers
+Fiserv,Financial Services Technology,https://www.careers.fiserv.com
+Fortive,Industrial Technology Products and Services,https://www.fortive.com/careers
+Genpact,Professional Services Firm Specializing in Digital Transformation,https://www.genpact.com/careers
+HCL Technologies,IT Services and Consulting,https://www.hcltech.com/careers/Careers-in-your-location
+Hitachi Vantara,IT Services and Digital Solutions,https://www.hitachivantara.com/en-us/company/careers.html
+Honeywell,Diversified Technology and Manufacturing,https://careers.honeywell.com
+HP Inc.,Computer and Printer Manufacturer,https://jobs.hp.com
+HubSpot,Inbound Marketing, Sales, and Service Software,https://www.hubspot.com/careers
+IFS,ERP, EAM, and Service Management Software,https://www.ifs.com/corp/company/careers/
+Informatica,Enterprise Cloud Data Management,https://www.informatica.com/about-us/careers.html
+Infor,Business Cloud Software,https://www.infor.com/about/careers
+Infosys,Business Consulting, Information Technology and Outsourcing Services,https://www.infosys.com/careers/
+Juniper Networks,Networking Equipment and Software,https://careers.juniper.net/careers/careers/
+Kaspersky Lab,Cybersecurity and Anti-Virus Provider,https://www.kaspersky.com/about/careers
+Keysight Technologies,Electronic Measurement Technology,https://jobs.keysight.com
+KLA Corporation,Process Control and Yield Management Solutions,https://www.kla.com/careers
+Konica Minolta,Business Technologies and Imaging,https://www.konicaminolta.com/us-en/careers/index.html
+Kyocera,Document Solutions and Communications Services,https://global.kyocera.com/company/careers/index.html
+Leidos,Defense, Aviation, Information Technology, and Biomedical Research,https://careers.leidos.com
+Lenovo,Computer Hardware and Electronics,https://www.lenovo.com/us/en/about/careers
+Logitech,Personal Computer and Mobile Accessories,https://www.logitech.com/en-us/careers.html
+ManTech,Technologies and Solutions for Defense, Intelligence Community, and Federal Civilian Agencies,https://www.mantech.com/careers
+McAfee,Global Computer Security Software Company,https://careers.mcafee.com
+Micro Focus,Enterprise Software,https://jobs.microfocus.com
+Mitel,Business Communications,https://www.mitel.com/company/careers
+NetApp,Data Storage and Cloud Management,https://www.netapp.com/us/careers/index.aspx
+Netgear,Networking Hardware for Consumers, Businesses, and Service Providers,https://www.netgear.com/about/careers/
+Nokia,Telecommunications, Information Technology, and Consumer Electronics,https://www.nokia.com/about-us/careers/
+Nutanix,Cloud Computing Software Company,https://www.nutanix.com/careers
+OpenText,Enterprise Information Management Software,https://www.opentext.com/about/careers
+Pegasystems,Software for Customer Engagement and Operational Excellence,https://www.pega.com/about/careers
+Proofpoint,Email Security and Protection,https://www.proofpoint.com/us/company/careers
+Pure Storage,Data Storage Hardware and Software,https://www.purestorage.com/company/careers.html
+Qlik,Business Intelligence and Data Visualization Software,https://www.qlik.com/us/company/careers
+Qualys,Cloud Security and Compliance Solutions,https://www.qualys.com/company/careers/
+Rackspace Technology,Cloud Computing Services,https://rackspace.jobs
+RSA Security,Cybersecurity and Digital Risk Management Solutions,https://www.rsa.com/en-us/company/careers
+Rubrik,Cloud Data Management and Enterprise Backup Software,https://www.rubrik.com/en/company/careers
+Sage Group,Enterprise Resource Planning Software,https://www.sage.com/en-us/company/careers/
+SAP Concur,Travel, Expense, and Invoice Management Solutions,https://www.concur.com/en-us/careers
+SAS Institute,Analytics and Data Management Solutions,https://www.sas.com/en_us/careers.html
+Schneider Electric,Energy Management and Automation Solutions,https://www.se.com/us/en/about-us/careers/overview.jsp
+SecureWorks,Information Security Services,https://www.secureworks.com/careers
+ServiceMax,Field Service Management Software,https://www.servicemax.com/careers
+Siemens Digital Industries Software,Product Lifecycle Management and Manufacturing Operations Management Software,https://jobs.siemens.com/jobs#q=Digital%20Industries%20Software
+Sitecore,Digital Experience Management Software,https://www.sitecore.com/company/careers
+SolarEdge,Smart Energy Technology,https://www.solaredge.com/us/careers
+SonicWall,Network Security and Data Protection,https://www.sonicwall.com/about/careers
+Sophos,Security Software and Hardware,https://careers.sophos.com
+SUSE,Enterprise Linux and Cloud Infrastructure Solutions,https://www.suse.com/company/careers
+Symantec (Broadcom),Enterprise and Consumer Cybersecurity,https://www.broadcom.com/company/careers
+Synology,Network Attached Storage, IP Surveillance Solutions,https://www.synology.com/en-global/company/careers
+Tableau Software,Interactive Data Visualization Products,https://www.tableau.com/about/careers
+Tenable,Cyber Exposure Company,https://www.tenable.com/careers
+Teradata,Database and Analytics Related Products and Services,https://careers.teradata.com
+Thales Group,Aerospace, Defense, Transportation, and Security,https://www.thalesgroup.com/en/global/careers
+Trend Micro,Cybersecurity Solutions,https://careers.trendmicro.com
+Trimble,Software, Hardware, and Services for Global Industries,https://www.trimble.com/Careers
+UiPath,Robotic Process Automation Software,https://www.uipath.com/company/careers
+Unisys,Information Technology Consulting and Services,https://www.unisys.com/careers
+Veeam Software,Backup, Recovery, and Data Management Software,https://careers.veeam.com
+Verint Systems,Customer Engagement and Cyber Intelligence,https://www.verint.com/about/careers
+Verisign,Domain Name Registry Services and Internet Security,https://www.verisign.com/en_US/company-information/careers/index.xhtml
+VMware,Cloud Infrastructure and Digital Workspace Technology,https://careers.vmware.com
+Vodafone,Telecommunications,https://careers.vodafone.com
+Wipro,Information Technology, Consulting, and Business Process Services,https://careers.wipro.com
+Worksoft,Automated Testing for SAP and Digital Applications,https://www.worksoft.com/careers
+Xerox,Print and Digital Document Products and Services,https://www.xerox.com/en-us/jobs
+Yandex,Russian Multinational Corporation Specializing in Internet-Related Products and Services,https://yandex.com/company/jobs
+Zebra Technologies,Tracking Technology and Solutions,https://www.zebra.com/us/en/about-zebra/career-center.html
+Zendesk,Customer Service Software,https://www.zendesk.com/jobs
+Zoho,Online Office Suite and SaaS Applications for Businesses,https://www.zoho.com/careers.html
+Zoom,Video Communications,https://careers.zoom.us
+Zscaler,Cloud-Based Information Security,https://www.zscaler.com/careers
+Zuora,Subscription Management Software,https://www.zuora.com/about/careers/
+3D Systems,3D Printers, Print Materials, and Cloud-Sourced Custom Parts,https://www.3dsystems.com/careers
+8x8,Voice, Video, Chat, and Contact Center Solutions,https://www.8x8.com/company/careers
+Anduril Industries,Defense Tech and AI,https://www.anduril.com/careers
+Affirm,Financial Services and Lending Platform,https://www.affirm.com/careers
+Asana,Project Management Software,https://asana.com/jobs
+Airtable,Database and Collaboration Software,https://airtable.com/careers
+Algolia,Search-as-a-Service Platform,https://www.algolia.com/careers
+Aurora,Autonomous Vehicle Technology,https://aurora.tech/careers
+Benchling,Life Sciences R&D Software,https://www.benchling.com/careers
+Brex,Financial Services for Businesses,https://www.brex.com/careers/
+Canva,Graphic Design Platform,https://www.canva.com/careers/
+Chime,Banking Services,https://www.chime.com/careers/
+Circle,Blockchain Finance Company,https://www.circle.com/en/careers
+Cockroach Labs,Cloud Database Technology,https://www.cockroachlabs.com/careers/
+Cohesity,Data Management and Storage,https://www.cohesity.com/company/careers/
+Convoy,Digital Freight Network,https://www.convoy.com/careers/
+Coursera,Online Learning Platform,https://about.coursera.org/careers
+Cruise,Self-Driving Cars,https://www.getcruise.com/careers/
+Dataminr,Real-time Information Discovery,https://www.dataminr.com/careers
+DigitalOcean,Cloud Infrastructure Provider,https://www.digitalocean.com/careers/
+Discord,Voice, Video, and Text Communication,https://discord.com/jobs
+DoorDash,Food Delivery Service,https://www.doordash.com/careers/
+Databricks,Big Data Analytics,https://databricks.com/company/careers
+Duolingo,Language Learning Platform,https://careers.duolingo.com
+Eight Sleep,Smart Mattress and Sleeping Solutions,https://www.eightsleep.com/careers
+Figma,Interface Design Tool,https://www.figma.com/careers/
+Flexport,Freight Forwarding and Logistics,https://www.flexport.com/careers
+GitLab,Web-based DevOps Lifecycle Tool,https://about.gitlab.com/jobs/
+Glossier,Beauty and Skin Care,https://www.glossier.com/about/jobs
+Ginkgo Bioworks,Synthetic Biology,https://www.ginkgobioworks.com/careers/
+Grab,Ride-Hailing and Financial Services,https://grab.careers/
+Grammarly,Writing Assistant,https://www.grammarly.com/careers
+Gusto,Payroll and HR Services,https://gusto.com/about/careers
+Hims & Hers,Telehealth and Wellness,https://www.forhims.com/careers
+Hopin,Virtual Event Platform,https://hopin.com/careers
+Impossible Foods,Plant-based Meat Products,https://impossiblefoods.com/careers/
+Instabase,Automation Platform,https://instabase.com/careers/
+Intercom,Customer Messaging Platform,https://www.intercom.com/careers
+iZettle,Payment Solutions,https://www.izettle.com/gb/about/careers
+JFrog,Software Release and Update Management,https://www.jfrog.com/careers/
+Klarna,Online Payment Solutions,https://www.klarna.com/international/careers/
+Lemonade,Insurance Technology,https://www.lemonade.com/careers
+Looker,Business Intelligence Software,https://looker.com/company/careers
+Magic Leap,Augmented Reality,https://www.magicleap.com/en-us/careers
+Meero,AI-driven Photography,https://www.meero.com/en/jobs
+Monday.com,Work Operating System,https://monday.com/careers
+N26,Mobile Banking,https://n26.com/en/careers
+Nextdoor,Social Networking for Neighbors,https://about.nextdoor.com/careers/
+Notion,Productivity Software,https://www.notion.so/careers
+Nubank,Digital Bank,https://nubank.com.br/en/careers/
+Okta,Identity Management,https://www.okta.com/company/careers/
+Olive,Healthcare AI and Automation,https://oliveai.com/careers
+OpenAI,Artificial Intelligence Research,https://openai.com/careers/
+Outreach,Sales Engagement Platform,https://www.outreach.io/company/careers
+Palantir Technologies,Data Integration and Analysis,https://www.palantir.com/careers/
+Patreon,Membership Platform for Creators,https://www.patreon.com/careers
+Payoneer,Online Payment Platform,https://www.payoneer.com/about/careers/
+Peloton,Interactive Fitness,https://www.onepeloton.com/company/careers
+Pendo,Product Experience Platform,https://www.pendo.io/careers/
+Plaid,Financial Services API,https://plaid.com/careers/
+Postmates,On-Demand Delivery,https://careers.postmates.com/
+Procore,Construction Management Software,https://www.procore.com/jobs
+Qualtrics,Experience Management Software,https://www.qualtrics.com/careers/
+Quora,Q&A Platform,https://www.quora.com/careers
+Revolut,Financial Services Company,https://www.revolut.com/careers
+Robinhood,Stock Trading App,https://robinhood.com/us/en/careers
+Roku,Streaming TV Platform,https://www.roku.com/about/careers
+Rubrik,Cloud Data Management,https://www.rubrik.com/en/company/careers
+Segment,Customer Data Platform,https://segment.com/jobs
+SentinelOne,Cybersecurity,https://www.sentinelone.com/careers/
+Shopify,E-commerce Platform,https://www.shopify.com/careers
+Slack,Business Communication,https://slack.com/careers
+Snowflake,Cloud-based Data Warehousing,https://careers.snowflake.com
+SoFi,Personal Finance,https://www.sofi.com/careers/
+Sonder,Hospitality Services,https://www.sonder.com/careers
+SpaceX,Aerospace Manufacturer and Space Transport Services,https://www.spacex.com/careers
+Square,Financial Services and Mobile Payment,https://squareup.com/us/en/careers
+Stripe,Online Payment Processing,https://stripe.com/jobs
+SurveyMonkey,Online Survey,https://www.surveymonkey.com/mp/jobs/
+Tanium,Endpoint Security and Systems Management,https://www.tanium.com/careers/
+Toast,Restaurant POS and Management System,https://careers.toasttab.com
+TransferWise (now Wise),Money Transfer Service,https://www.wise.jobs
+Twilio,Cloud Communications Platform,https://www.twilio.com/company/jobs
+UiPath,Robotic Process Automation,https://www.uipath.com/company/careers
+Unacademy,Learning Platform,https://unacademy.com/careers
+Unity Technologies,Game Development Software,https://careers.unity.com
+Varjo,Virtual and Mixed Reality for Professionals,https://varjo.com/careers/
+Veeva Systems,Cloud-based Software for the Life Sciences,https://www.veeva.com/eu/careers/
+Venmo,Mobile Payment Service,https://venmo.com/jobs
+Verkada,Enterprise Security Camera System,https://www.verkada.com/careers/
+Wayfair,Online Home Goods Store,https://www.wayfair.com/careers
+WeWork,Co-working Spaces,https://www.wework.com/careers
+Wish,E-commerce Platform,https://www.wish.com/careers
+Workday,Financial Management and Human Capital Management Software,https://www.workday.com/en-us/company/careers.html
+X,The Moonshot Factory (formerly Google X),https://x.company/careers/
+Zipline,Drone Delivery Service for Medical Supplies,https://flyzipline.com/careers/
+Zoom,Video Communications,https://careers.zoom.us
+Zscaler,Cloud-based Information Security,https://www.zscaler.com/careers
+23andMe,Genetic Testing and Analysis,https://www.23andme.com/careers/
+6 River Systems,Warehouse Automation,https://6river.com/careers/
+10x Genomics,Genomics and Biotechnology,https://www.10xgenomics.com/careers/
+360Learning,Collaborative Learning Platform,https://360learning.com/careers/
+JPMorgan Chase & Co.,Finance and Banking,https://careers.jpmorgan.com/us/en/home
+Goldman Sachs,Finance and Banking,https://www.goldmansachs.com/careers/
+Morgan Stanley,Finance and Banking,https://www.morganstanley.com/people-opportunities/
+Bank of America Merrill Lynch,Finance and Banking,https://careers.bankofamerica.com/en-us
+Citigroup,Finance and Banking,https://jobs.citi.com/
+Wells Fargo,Finance and Banking,https://www.wellsfargo.com/about/careers/
+BlackRock,Finance and Banking,https://careers.blackrock.com/
+The Vanguard Group,Finance and Banking,https://careers.vanguard.com/
+Charles Schwab,Finance and Banking,https://www.aboutschwab.com/careers
+Fidelity Investments,Finance and Banking,https://jobs.fidelity.com/
+PricewaterhouseCoopers (PwC),Finance and Consulting,https://www.pwc.com/gx/en/careers.html
+Ernst & Young (EY),Finance and Consulting,https://www.ey.com/en_us/careers
+Deloitte,Finance and Consulting,https://www2.deloitte.com/us/en/careers/careers.html
+KPMG,Finance and Consulting,https://home.kpmg/xx/en/home/careers.html
+BNY Mellon,Finance and Banking,https://www.bnymellon.com/us/en/careers.html
+State Street Corporation,Finance and Banking,https://www.statestreet.com/company/careers.html
+Northern Trust,Finance and Banking,https://careers.northerntrust.com
+American Express,Finance and Banking,https://careers.americanexpress.com
+T. Rowe Price,Finance and Banking,https://www.troweprice.com/corporate/en/careers.html
+Capital One,Finance and Banking,https://www.capitalonecareers.com
+HSBC,Finance and Banking,https://www.hsbc.com/careers
+Barclays,Finance and Banking,https://home.barclays/careers/
+Deutsche Bank,Finance and Banking,https://careers.db.com
+Credit Suisse,Finance and Banking,https://www.credit-suisse.com/pwp/hr/en/careers/
+UBS,Finance and Banking,https://www.ubs.com/global/en/careers.html
+BNP Paribas,Finance and Banking,https://group.bnpparibas/en/careers
+Société Générale,Finance and Banking,https://careers.societegenerale.com
+Scotiabank,Finance and Banking,https://www.scotiabank.com/careers/en/careers.html
+ING Group,Finance and Banking,https://www.ing.jobs
+Standard Chartered,Finance and Banking,https://www.sc.com/en/careers/
+NatWest Group,Finance and Banking,https://jobs.natwestgroup.com
+Lloyds Banking Group,Finance and Banking,https://www.lloydsbankinggroup.com/careers.html
+Royal Bank of Canada (RBC),Finance and Banking,https://jobs.rbc.com
+Toronto-Dominion Bank (TD),Finance and Banking,https://jobs.td.com/en
+Westpac,Finance and Banking,https://www.westpac.com.au/about-westpac/careers/
+ANZ Bank,Finance and Banking,https://www.anz.com.au/careers/
+National Australia Bank (NAB),Finance and Banking,https://careers.nab.com.au
+Commonwealth Bank of Australia,Finance and Banking,https://www.commbank.com.au/about-us/careers.html
+Macquarie Group,Finance and Banking,https://www.macquarie.com/au/about/careers
+Nomura,Finance and Banking,https://www.nomura.com/careers/
+Sumitomo Mitsui Financial Group,Finance and Banking,https://www.smfg.co.jp/english/careers/
+Mitsubishi UFJ Financial Group,Finance and Banking,https://www.mufgcareers.com
+Prudential Financial,Finance and Banking,https://jobs.prudential.com
+MetLife,Finance and Banking,https://jobs.metlife.com
+AIG,Finance and Banking,https://www.aig.com/careers
+AXA,Finance and Banking,https://www.axa.com/en/careers
+Allianz,Finance and Banking,https://careers.allianz.com
+Zurich Insurance Group,Finance and Banking,https://www.zurich.com/en/careers
+Swiss Re,Finance and Banking,https://www.swissre.com/careers
+Manulife Financial,Finance and Banking,https://jobs.manulife.com
+Sun Life Financial,Finance and Banking,https://sunlife.com/global/careers
+New York Life Insurance Company,Finance and Banking,https://www.newyorklife.com/careers
+Liberty Mutual Insurance Group,Finance and Banking,https://jobs.libertymutualgroup.com
+The Hartford,Finance and Banking,https://www.thehartford.com/careers
+MassMutual,Finance and Banking,https://www.massmutual.com/about-us/careers
+Northwestern Mutual,Finance and Banking,https://careers.northwesternmutual.com
+TIAA,Finance and Banking,https://www.tiaa.org/public/about-tiaa/careers
+Vanguard,Finance and Banking,https://careers.vanguard.com
+Fannie Mae,Finance and Banking,https://www.fanniemae.com/careers
+Freddie Mac,Finance and Banking,https://careers.freddiemac.com
+S&P Global,Finance and Banking,https://careers.spglobal.com
+Moody's,Finance and Banking,https://careers.moodys.com
+Fitch Ratings,Finance and Banking,https://www.fitchratings.com/research/corporate-finance/careers-09-01-2020
+Interactive Brokers,Finance and Banking,https://www.interactivebrokers.com/en/index.php?f=employment
+Robinhood,Finance and Banking,https://robinhood.com/us/en/careers
+SoFi,Finance and Banking,https://www.sofi.com/careers/
+PayPal,Finance and Banking,https://www.paypal.com/us/webapps/mpp/jobs
+Square (Block, Inc.),Finance and Banking,https://squareup.com/us/en/careers
+Stripe,Finance and Banking,https://stripe.com/jobs
+Adyen,Finance and Banking,https://careers.adyen.com
+Klarna,Finance and Banking,https://www.klarna.com/international/careers/
+Revolut,Finance and Banking,https://www.revolut.com/careers
+N26,Finance and Banking,https://n26.com/en/careers
+Monzo,Finance and Banking,https://monzo.com/careers/
+Starling Bank,Finance and Banking,https://www.starlingbank.com/careers/
+Chubb,Finance and Banking,https://careers.chubb.com
+Tokio Marine Group,Finance and Banking,https://www.tokiomarinehd.com/en/careers/
+Munich Re,Finance and Banking,https://www.munichre.com/en/career.html
+CME Group,Finance and Banking,https://www.cmegroup.com/company/careers.html
+Nasdaq,Finance and Banking,https://www.nasdaq.com/about/careers
+NYSE (New York Stock Exchange),Finance and Banking,https://www.nyse.com/careers
+Blackstone Group,Finance and Banking,https://www.blackstone.com/the-firm/careers/
+Bridgewater Associates,Finance and Banking,https://www.bridgewater.com/careers/
+Apollo Global Management,Finance and Banking,https://www.apollo.com/careers
+Carlyle Group,Finance and Banking,https://www.carlyle.com/careers
+TPG Capital,Finance and Banking,https://www.tpg.com/careers
+KKR & Co. (Kohlberg Kravis Roberts),Finance and Banking,https://www.kkr.com/careers
+Bain Capital,Finance and Banking,https://www.baincapital.com/careers
+Sequoia Capital,Finance and Banking,https://www.sequoiacap.com/careers/
+Andreessen Horowitz,Finance and Banking,https://a16z.com/careers/
+Citadel LLC,Finance and Banking,https://www.citadel.com/careers/
+Two Sigma Investments,Finance and Banking,https://www.twosigma.com/careers/
+AQR Capital Management,Finance and Banking,https://www.aqr.com/careers
+Millennium Management,Finance and Banking,https://www.mlp.com/careers/
+Blackstone,Finance and Banking,https://www.blackstone.com/the-firm/careers/
+Renaissance Technologies,Finance and Banking,https://www.rentec.com/Home.action
+Pershing Square Capital Management,Finance and Banking,https://pershingsquareholdings.com/careers/
+Elliott Management Corporation,Finance and Banking,https://www.elliottmgmt.com/careers.html
+Lazard,Finance and Banking,https://www.lazard.com/careers/
+Houlihan Lokey,Finance and Banking,https://hl.com/career.aspx
+McKinsey & Company,Consulting,https://www.mckinsey.com/careers/home
+Boston Consulting Group (BCG),Consulting,https://www.bcg.com/careers/default.aspx
+Bain & Company,Consulting,https://www.bain.com/careers/
+Booz Allen Hamilton,Consulting,https://careers.boozallen.com
+Accenture,Consulting,https://www.accenture.com/us-en/careers
+Mercer,Consulting,https://www.mercer.com/careers.html
+Oliver Wyman,Consulting,https://www.oliverwyman.com/careers.html
+Roland Berger,Consulting,https://www.rolandberger.com/en/Join/
+A.T. Kearney,Consulting,https://www.kearney.com/careers
+Capgemini Consulting,Consulting,https://www.capgemini.com/careers
+IBM Global Business Services,Consulting,https://www.ibm.com/employment/
+Gartner,Consulting,https://jobs.gartner.com
+Navigant Consulting,Consulting,https://guidehouse.com/careers
+FTI Consulting,Consulting,https://www.fticonsulting.com/careers
+The Brattle Group,Consulting,https://www.brattle.com/careers/
+Simon-Kucher & Partners,Consulting,https://www.simon-kucher.com/en/careers
+Huron Consulting Group,Consulting,https://www.huronconsultinggroup.com/careers
+LEK Consulting,Consulting,https://www.lek.com/join-lek
+Alvarez & Marsal,Consulting,https://www.alvarezandmarsal.com/careers
+Arthur D. Little,Consulting,https://www.adlittle.com/en/careers
+Cognizant Technology Solutions,Consulting,https://careers.cognizant.com
+CGI Group,Consulting,https://www.cgi.com/en/careers
+Frost & Sullivan,Consulting,https://careers.frost.com
+PA Consulting Group,Consulting,https://www.paconsulting.com/careers/
+Protiviti,Consulting,https://www.protiviti.com/US-en/careers
+Slalom Consulting,Consulting,https://www.slalom.com/careers
+Strategy&,Consulting,https://www.strategyand.pwc.com/careers
+BearingPoint,Consulting,https://www.bearingpoint.com/en/careers/
+ZS Associates,Consulting,https://www.zs.com/careers
+The Advisory Board Company,Consulting,https://www.advisory.com/careers
+Gallup Consulting,Consulting,https://www.gallup.com/careers.aspx
+Infosys Consulting,Consulting,https://www.infosysconsultinginsights.com/careers/
+Towers Watson,Consulting,https://careers.willistowerswatson.com
+Grant Thornton,Consulting,https://www.grantthornton.com/careers
+BDO Consulting,Consulting,https://www.bdo.com/careers
+RSM International,Consulting,https://rsmus.com/careers.html
+Crowe Horwath,Consulting,https://www.crowe.com/careers
+AlixPartners,Consulting,https://www.alixpartners.com/careers
+Korn Ferry,Consulting,https://www.kornferry.com/about-us/careers
+Hay Group,Consulting,https://www.kornferry.com/about-us/careers 
+ManpowerGroup,Consulting,https://www.manpowergroup.com/careers
+Randstad,Consulting,https://www.randstad.com/jobs/
+Michael Page,Consulting,https://www.michaelpage.com/join-our-team
+Aon Hewitt,Consulting,https://careers.aon.com
+Willis Towers Watson,Consulting,https://careers.willistowerswatson.com
+Sia Partners,Consulting,https://www.sia-partners.com/en/careers
+Egon Zehnder,Consulting,https://www.egonzehnder.com/career
+Spencer Stuart,Consulting,https://www.spencerstuart.com/join-our-firm
+Heidrick & Struggles,Consulting,https://www.heidrick.com/Careers
+Russell Reynolds Associates,Consulting,https://www.russellreynolds.com/join-our-firm
+Corn Ferry,Consulting,https://www.kornferry.com/about-us/careers
+Boston Consulting Group (Digital Ventures),Consulting,https://www.bcgdv.com/careers/
+McKinsey Digital,Consulting,https://www.mckinsey.com/careers/search-jobs#?query=Digital
+Bain Digital,Consulting,https://www.bain.com/careers/roles/digital/
+Deloitte Digital,Consulting,https://www2.deloitte.com/us/en/pages/careers/topics/careers-deloitte-digital.html
+PwC Digital Services,Consulting,https://www.pwc.com/gx/en/careers/job-search/job-opportunities-digital.html
+EY-Parthenon,Consulting,https://www.ey.com/en_gl/careers/what-you-can-do-here
+KPMG Advisory,Consulting,https://advisory.kpmg.us/careers.html
+Accenture Strategy,Consulting,https://www.accenture.com/us-en/careers/explore-careers/area-of-interest/strategy-careers
+Oliver Wyman Digital,Consulting,https://www.oliverwyman.com/our-expertise/hubs/digital.html
+Roland Berger Digital,Consulting,https://www.rolandberger.com/en/Careers/
+A.T. Kearney Digital,Consulting,https://www.kearney.com/digital
+Capgemini Invent,Consulting,https://www.capgemini.com/careers/capgemini-invent/
+IBM iX,Consulting,https://www.ibm.com/services/ibmix/careers
+Gartner Consulting,Consulting,https://jobs.gartner.com/career-areas/consulting-jobs
+Navigant Digital,Consulting,https://guidehouse.com/careers
+FTI Technology,Consulting,https://www.fticonsulting.com/careers
+The Brattle Group (Digital Economy),Consulting,https://www.brattle.com/careers/
+Simon-Kucher & Partners (Digital Strategy),Consulting,https://www.simon-kucher.com/en/careers/join-us
+Huron Digital,Consulting,https://www.huronconsultinggroup.com/careers
+LEK Consulting (Digital Transformation),Consulting,https://www.lek.com/join-lek
+Alvarez & Marsal (Digital),Consulting,https://www.alvarezandmarsal.com/careers
+Arthur D. Little (Technology & Innovation Management),Consulting,https://www.adlittle.com/en/careers
+Cognizant Digital Business,Consulting,https://careers.cognizant.com/global/en
+CGI Group (Digital Transformation),Consulting,https://www.cgi.com/en/careers
+Frost & Sullivan (Growth Consulting),Consulting,https://careers.frost.com/
+PA Consulting (Innovation and Technology),Consulting,https://www.paconsulting.com/careers/
+Protiviti,Consulting,https://www.protiviti.com/US-en/careers
+Slalom (Technology Consulting),Consulting,https://www.slalom.com/careers
+Strategy& (Digital Business),Consulting,https://www.strategyand.pwc.com/careers
+BearingPoint (Digital & Strategy),Consulting,https://www.bearingpoint.com/en/careers/
+ZS Associates (Technology),Consulting,https://www.zs.com/careers
+The Advisory Board Company (Healthcare Technology),Consulting,https://www.advisory.com/careers
+Gallup (Digital Transformation),Consulting,https://www.gallup.com/careers.aspx
+Infosys Consulting (Digital Innovation),Consulting,https://www.infosysconsultinginsights.com/careers/
+Towers Watson (Technology and Administration Solutions),Consulting,https://careers.willistowerswatson.com
+Grant Thornton Advisory,Consulting,https://www.grantthornton.com/careers
+BDO Advisory,Consulting,https://www.bdo.com/careers
+RSM Consulting,Consulting,https://rsmus.com/careers.html
+Crowe Consulting,Consulting,https://www.crowe.com/careers
+AlixPartners (Digital Transformation),Consulting,https://www.alixpartners.com/careers
+Korn Ferry Advisory,Consulting,https://www.kornferry.com/about-us/careers
+Hay Group (Technology and Innovation),Consulting,https://www.kornferry.com/about-us/careers (Note: Hay Group is now part of Korn Ferry)
+ManpowerGroup Consulting,Consulting,https://www.manpowergroup.com/careers
+Randstad Innovation Fund,Consulting,https://www.randstad.com/jobs/
+Michael Page Consulting,Consulting,https://www.michaelpage.com/join-our-team
+Aon Strategic Advisors & Transaction Solutions,Consulting,https://careers.aon.com
+Willis Towers Watson (Risk and Analytics),Consulting,https://careers.willistowerswatson.com
+Sia Partners (Data Science),Consulting,https://www.sia-partners.com/en/careers
+Egon Zehnder (Leadership Advisory),Consulting,https://www.egonzehnder.com/career
+AeroVironment,Unmanned Aircraft Systems,https://www.avinc.com/careers
+BAE Systems Inc.,Defense, Aerospace, and Security,https://jobs.baesystems.com/global/en
+Ball Aerospace,Aerospace and Defense,https://www.ball.com/aerospace/about-ball-aerospace/careers
+Booz Allen Hamilton Inc.,Management and Technology Consulting,https://careers.boozallen.com
+CACI International,Professional Services and Information Technology,https://careers.caci.com
+CAE,Simulation Technologies,https://www.cae.com/careers
+Cobham,Defense Technology,https://www.cobhammissionsystems.com/careers
+Curtiss-Wright,Engineering Services,https://www.curtisswright.com/careers/
+DynCorp International,Military Contract Services,https://www.dyn-intl.com/careers/
+Elbit Systems,Defense Electronics,https://elbitsystems.com/career-opportunities/
+FLIR Systems,Sensing Solutions,https://www.flir.com/careers/
+General Atomics,Unmanned Aerial Vehicles,https://www.ga-careers.com
+Harris Corporation,Communications and Electronics,https://www.l3harris.com/careers
+Huntington Ingalls Industries,Shipbuilding,https://ingalls.huntingtoningalls.com/careers/
+ITT Corporation,High-Technology Engineering and Manufacturing,https://www.itt.com/careers
+Jacobs Engineering Group,Technical Professional Services,https://careers.jacobs.com
+Kratos Defense & Security Solutions,National Security Technology,https://kratosdefense.com/careers
+L3 Technologies,Communication Systems,https://www.l3harris.com/careers
+Leidos,Science and Technology Solutions,https://careers.leidos.com
+Leonardo DRS,Defense Contractor,https://www.leonardocompany-us.com/careers
+Lockheed Martin Corporation,Aerospace and Defense,https://www.lockheedmartinjobs.com
+Moog Inc.,Precision Control Components and Systems,https://www.moog.com/careers
+Northrop Grumman Corporation,Aerospace and Defense Technology,https://www.northropgrumman.com/careers
+Oshkosh Defense,Military Vehicles and Equipment,https://www.oshkoshcorp.com/careers
+Palantir Technologies,Data Analysis Software,https://www.palantir.com/careers
+QinetiQ,Defense Technology and Security,https://www.qinetiq.com/en/careers
+Raytheon Company,Defense and Cybersecurity,https://jobs.rtx.com/raytheon
+Rheinmetall Group,Automotive and Defense,https://www.rheinmetall.com/en/rheinmetall_ag/career_1/index.php
+Rockwell Collins,Avionics and Information Technology Systems,https://www.collinsaerospace.com/careers
+Rolls-Royce,Aerospace and Defense,https://careers.rolls-royce.com
+SAAB,Defense and Security Company,https://saabgroup.com/about-saab/jobs-and-careers
+Safran,Aerospace, Defense, and Security,https://www.safran-group.com/talent
+Science Applications International Corporation (SAIC),IT Services,https://www.saic.com/careers
+Serco Group,Service and Outsourcing Company,https://www.serco.com/careers
+Sierra Nevada Corporation,Electronic Systems and Space Systems,https://www.sncorp.com/careers
+Textron,Aircraft, Defense, and Industrial Products,https://www.textron.com/Careers
+Thales Group,Aerospace, Defense, and Security,https://www.thalesgroup.com/en/global/careers
+The Aerospace Corporation,Federally Funded Research and Development,https://aerospace.org/careers
+ThyssenKrupp,Industrial Engineering and Steel Production,https://www.thyssenkrupp.com/en/careers
+TransDigm Group,Aerospace and Defense Components,https://www.transdigm.com/careers
+Triumph Group,Aerospace Components,https://www.triumphgroup.com/careers
+Ultra Electronics,Defense, Security, Transport, and Energy,https://www.ultra.group/careers
+United Technologies Corporation,Aerospace and Building Systems,Note: UTC has merged with Raytheon Technologies, see Raytheon Company careers
+Vectrus,Infrastructure Asset Management,https://www.vectrus.com/careers
+ViaSat,Communications Equipment,https://careers.viasat.com
+Wartsila,Power Sources, Services, and Solutions,https://www.wartsila.com/careers
+Woodward,Control System Solutions and Components,https://www.woodward.com/careers
+Yulista Holding,Aviation and Defense Solutions,https://www.yulista.com/careers/
+Zodiac Aerospace,Aerospace Equipment and Systems,Note: Zodiac Aerospace is now part of Safran, https://www.safran-group.com/talent
+Meggitt PLC,High-Performance Components and Subsystems,https://careers.meggitt.com/
+Mercury Systems,Processing Systems,https://www.mrcy.com/careers/
+MDA,Space and Defense Technology,https://www.mda.space/careers
+Nammo,Ammunition and Rocket Motors,https://www.nammo.com/careers/
+Navistar Defense,Military Trucks and Vehicles,https://www.navistardefense.com/NavistarDefense/careers
+NEC Corporation,Information Technology and Electronics,https://www.nec.com/en/global/careers/
+NetApp,Data Management,https://www.netapp.com/us/careers/index.aspx
+Newport News Shipbuilding,Military Shipbuilding,https://buildyourcareer.com/
+NIITEK,Ground-Penetrating Radar Systems,Note: Part of Chemring Group, https://www.chemring.co.uk/careers
+Noblis,Science, Technology, and Strategy Organization,https://www.noblis.org/careers/
+Noblis ESI,National Security and Intelligence,https://www.noblis.org/careers/ (Subsidiary of Noblis)
+Northrop Grumman Innovation Systems,Aerospace and Defense,https://www.northropgrumman.com/careers/
+OSI Systems,Security and Inspection Systems,https://www.osi-systems.com/careers.aspx
+Pacific Architects and Engineers (PAE),Government Services,https://pae.wd1.myworkdayjobs.com/PAE_Careers
+Parsons Corporation,Engineering, Construction, Technical, and Management Services,https://www.parsons.com/careers/
+Perspecta,Information Technology Services,https://www.perspecta.com/careers
+PGZ,Polish Armaments Group,https://www.pgzsa.pl/en/career.html
+Pratt & Whitney,Aircraft Engines,https://prattwhitney.com/careers
+Presagis,Modeling, Simulation, and Embedded Display Solutions,https://www.presagis.com/en/page/careers
+QinetiQ North America,Technology and Engineering Services,https://www.qinetiq.com/en-us/careers
+Rafael Advanced Defense Systems,Defense Technology,https://www.rafael.co.il/careers/
+RHEA Group,Engineering and Advanced Technology Solutions,https://www.rheagroup.com/careers
+Rheinmetall Defence,Military Technology and Security Solutions,https://www.rheinmetall.com/en/rheinmetall_ag/career_1/index.php
+Rockwell Automation,Industrial Automation,https://careers.rockwellautomation.com/
+Roketsan,Rockets and Missiles,https://www.roketsan.com.tr/en/human-resources/
+Rolls-Royce North America,Power and Propulsion Systems,https://careers.rolls-royce.com/usa
+RTX (formerly Raytheon Technologies),Aerospace and Defense,https://www.rtx.com/careers
+RUAG,Aerospace and Defense,https://www.ruag.com/en/career/jobs
+Saab Group,Defense and Security Solutions,https://saabgroup.com/career/
+Safran USA,Aerospace, Defense, and Security,https://www.safran-group.com/talent
+Salient CRGT,Information Technology and Consulting,https://www.salientcrgt.com/careers/
+SAP National Security Services,Software Solutions,https://www.sapns2.com/careers
+Sarcos Robotics,Advanced Robotics and Microelectromechanical Systems,https://www.sarcos.com/careers/
+Schiebel,Unmanned Air Vehicles,https://www.schiebel.net/careers/
+Science and Engineering Services,Aerospace and Defense Services,https://www.ses-i.com/careers
+Selex ES,Electronic and Information Technologies,Note: Now part of Leonardo, https://www.leonardocompany.com/en/people-careers
+Serco Inc.,Public and Private Sector Services,https://www.serco.com/na/careers
+SGT, Inc.,Engineering, Science, and Project Management,https://www.sgt-inc.com/career/
+Sierra Nevada Corporation,National Security, Space, and Commercial Solutions,https://www.sncorp.com/careers/
+SIG SAUER,Firearms and Accessories,https://www.sigsauer.com/careers/
+Sikorsky Aircraft,Military and Commercial Helicopters,https://www.lockheedmartinjobs.com/sikorsky
+SimiGon,Training and Simulation Technologies,https://www.simigon.com/careers
+Sintavia,Additive Manufacturing and Metal 3D Printing,https://www.sintavia.com/careers/
+SITA,IT and Telecommunication Services,https://www.sita.aero/about-us/careers
+SKY Perfect JSAT Corporation,Satellite Communication,https://www.sptvjsat.com/en/career/
+Skyline Software Systems,3D Geospatial Visualization,https://skylineglobe.com/HomePage.aspx (Careers page not directly listed, suggested to contact for opportunities)
+SL Corporation,Software Development and Consulting,https://www.sl.com/company/careers/
+Smiths Detection,Detection and Screening Technologies,https://www.smithsdetection.com/about-us/careers/
+SMS Data Products Group,Information Technology Solutions,https://www.sms.com/Careers/careers.aspx
+SNK Corporation,Video Games and Hardware,https://www.snk-corp.co.jp/us/ (Careers page not directly listed, suggested to contact for opportunities)
+SoarTech,Artificial Intelligence Software,https://www.soartech.com/careers/
+Kiva Systems (now Amazon Robotics),Warehouse Automation,https://www.amazon.jobs/en/teams/amazon-robotics
+Seegrid,Autonomous Industrial Vehicles,https://seegrid.com/careers
+Vecna Robotics,Material Handling Autonomous Robots,https://www.vecnarobotics.com/careers/
+RightHand Robotics,Robotic Piece-Picking Solutions,https://www.righthandrobotics.com/careers
+Brain Corp,AI for Autonomous Robots,https://www.braincorp.com/careers
+Skydio,Autonomous Drones,https://www.skydio.com/careers
+Zipline,Medical Supply Delivery Drones,https://flyzipline.com/careers/
+Exyn Technologies,Autonomous Aerial Robots,https://www.exyn.com/careers
+Clearpath Robotics,Autonomous Robot Solutions,https://www.clearpathrobotics.com/careers/
+Boston Micromachines Corporation,Microelectromechanical Systems,https://www.bostonmicromachines.com/careers
+Agility Robotics,Bipedal Locomotion Robots,https://www.agilityrobotics.com/#careers
+ANYbotics,Autonomous Legged Robots,https://www.anybotics.com/careers/
+Carbon Robotics,Agricultural Robots,https://www.carbonrobotics.com/careers
+Deep Ocean Engineering,Underwater ROVs,https://www.deepocean.com/careers (URL may need verification)
+EHang,Autonomous Aerial Vehicles,https://www.ehang.com/careers/
+Festo,Industrial Automation and Robotics,https://www.festo.com/net/en-us_us/Company/Careers_at_Festo/
+Ghost Robotics,Legged Robots,https://www.ghostrobotics.io/careers
+Hease Robotics,Service Robots,http://heaserobotics.com (URL may need verification for careers)
+InVia Robotics,Warehouse Automation Robots,https://www.inviarobotics.com/careers
+Jibo,Social Robots,https://www.jibo.com (Note: Jibo's commercial operations have wound down; URL may not offer career info)
+Liquid Robotics,Ocean Data Robots,https://www.liquid-robotics.com/careers/ (Note: Now part of Boeing)
+Marble,Autonomous Delivery Robots,https://www.marble.io (URL may need verification for careers)
+Nuro,Autonomous Delivery Vehicles,https://nuro.ai/careers
+OpenAI,Artificial Intelligence Research,https://openai.com/careers/
+Piaggio Fast Forward,Lightweight Mobility Robots,https://www.piaggiofastforward.com/careers
+Plus One Robotics,Warehouse Robotics,https://www.plusonerobotics.com/careers/
+Robotic Research,Autonomous Technology,https://www.roboticresearch.com/careers/
+Savioke,Service Robots,https://www.savioke.com/careers
+Schilling Robotics,Underwater Robotic Arms,https://www.technipfmc.com/en/careers (Note: Schilling Robotics is part of TechnipFMC)
+SkySpecs,Automated Drone Inspections,https://www.skyspecs.com/careers/
+Starship Technologies,Ground Delivery Robots,https://www.starship.xyz/careers/
+TerraClear,Agricultural Robotics,https://www.terraclear.com/careers
+UVD Robots,Disinfection Robots,https://www.uvd-robots.com/careers
+VEX Robotics,Educational Robotics,https://www.vexrobotics.com/about/careers
+Waymo,Autonomous Driving Technology,https://waymo.com/joinus/
+WiBotic,Wireless Charging for Robots,https://www.wibotic.com/about/careers/
+XYZ Robotics,Robotic Picking and Placing,https://www.xyzrobotics.ai/careers
+Yuneec,Electric Aviation,https://www.yuneec.com/en_US/company/career.html
+Zoox,Autonomous Mobility,https://zoox.com/careers
+Robust.AI,General Purpose Robotics,https://robust.ai/careers
+Saildrone,Ocean Data Collection,https://www.saildrone.com/careers
+Simbe Robotics,Retail Automation,https://www.simberobotics.com/careers
+Soft Robotics,Gripping Solutions,https://www.softroboticsinc.com/careers
+Symbotic,Warehouse Automation,https://www.symbotic.com/careers/
+Tethers Unlimited,Space and Defense Robotics,http://www.tethers.com/careers.html
+Tortuga AgTech,Agricultural Robotics,https://www.tortugaagtech.com/careers
+Vicarious,General Intelligence for Robots,https://www.vicarious.com/careers/
+Wonder Workshop,Educational Robots,https://www.makewonder.com/careers
+Motiv Space Systems,Space Robotics,https://www.motivss.com/careers
+Neurala,AI for Robotics,https://www.neurala.com/careers
+OrionStar,Service Robots,https://www.orionstar.com/en/about/joinus.html (May need direct search as the specific careers page is not directly accessible)
+Walmart,Retail Giant,https://careers.walmart.com
+Target,Retail Company,https://jobs.target.com
+Johnson & Johnson,Healthcare and Pharmaceuticals,https://www.careers.jnj.com
+Procter & Gamble,Consumer Goods Manufacturer,https://www.pgcareers.com
+Boeing,Aerospace and Defense,https://jobs.boeing.com
+Airbus,Aerospace and Defense,https://www.airbus.com/en/careers
+Ford Motor Company,Automotive,https://corporate.ford.com/careers.html
+General Motors,Automotive,https://careers.gm.com
+Tesla, Inc.,Automotive and Energy,https://www.tesla.com/careers
+General Electric,Multinational Conglomerate,https://jobs.gecareers.com/global/en
+Siemens AG,Industrial Manufacturing,https://new.siemens.com/global/en/company/jobs.html
+Philips,Healthcare Technology,https://www.careers.philips.com
+Nike, Inc.,Apparel and Accessories,https://jobs.nike.com
+Adidas AG,Apparel and Accessories,https://careers.adidas-group.com
+Unilever,Consumer Goods,https://www.unilever.com/careers/
+The Coca-Cola Company,Beverage Corporation,https://www.coca-colacompany.com/careers/
+PepsiCo,Food, Snack, and Beverage Corporation,https://www.pepsicojobs.com/
+IKEA,Home Furnishings,https://www.ikea.com/us/en/jobs/
+Nestle,Food and Beverage,https://www.nestle.com/jobs
+Roche,Healthcare and Pharmaceuticals,https://www.roche.com/careers.htm
+Novartis,Healthcare and Pharmaceuticals,https://www.novartis.com/careers
+Merck & Co., Inc.,Healthcare and Pharmaceuticals,https://www.merck.com/careers/home.html
+Pfizer,Biopharmaceuticals,https://www.pfizer.com/careers
+Bayer,Life Sciences and Pharmaceuticals,https://career.bayer.us/en/
+AstraZeneca,Pharmaceuticals,https://www.astrazeneca.com/careers.html
+Comcast,Telecommunications,https://corporate.comcast.com/careers
+Verizon Communications,Telecommunications,https://www.verizon.com/about/careers
+AT&T,Telecommunications,https://www.att.jobs/
+The Walt Disney Company,Entertainment and Media,https://jobs.disneycareers.com/
+WarnerMedia,Entertainment Conglomerate,https://www.warnermediagroup.com/careers
+Sony Corporation,Entertainment and Electronics,https://www.sony.net/SonyInfo/careers/
+LG Electronics,Consumer Electronics,https://www.lg.com/global/careers
+Samsung Electronics,Consumer Electronics,https://www.samsung.com/us/careers/
+Panasonic,Electronics,https://careers.na.panasonic.com/
+Dell Technologies,Technology and Computing,https://jobs.dell.com/
+HP Inc.,Technology and Computing,https://www8.hp.com/us/en/jobs/index.html
+Intel Corporation,Semiconductor Manufacturing,https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html
+Oracle Corporation,Computer Technology Corporation,https://www.oracle.com/corporate/careers/
+Cisco Systems,Networking Hardware,https://www.cisco.com/c/en/us/about/careers.html
+Qualcomm,Semiconductors and Telecommunications,https://www.qualcomm.com/company/careers
+Texas Instruments,Semiconductors,https://careers.ti.com/
+Honeywell,Multinational Conglomerate,https://www.honeywell.com/us/en/careers
+3M Company,Multinational Conglomerate,https://www.3m.com/3M/en_US/careers-us/
+DuPont,Chemicals Corporation,https://careers.dupont.com/
+The Home Depot,Home Improvement Supplies Retailing,https://careers.homedepot.com/
+Lowe's,Home Improvement,https://corporate.lowes.com/careers
+Best Buy,Consumer Electronics Retail,https://www.bestbuy-jobs.com/
+Macy's,Department Store Chain,https://www.macysjobs.com/
+Nordstrom,Luxury Department Stores,https://careers.nordstrom.com/
+J.C. Penney,Department Stores,https://jobs.jcp.com/
+Kohl's,Department Stores,https://corporate.kohls.com/careers
+Costco Wholesale,Membership-Only Warehouse Clubs,https://www.costco.com/jobs.html
+Walgreens Boots Alliance,Pharmacy and Healthcare,https://jobs.walgreens.com/
+CVS Health,Healthcare and Retail,https://jobs.cvshealth.com/
+McKesson Corporation,Healthcare,https://www.mckesson.com/careers/
+UnitedHealth Group,Healthcare and Insurance,https://careers.unitedhealthgroup.com/
+Anthem, Inc.,Health Insurance,https://careers.antheminc.com/
+Aetna,Health Insurance,https://www.aetna.com/about-us/aetna-careers.html
+Cigna,Global Health Service Company,https://www.cigna.com/careers
+Humana,Health Insurance,https://www.humana.com/careers/
+Medtronic,Medical Devices,https://www.medtronic.com/us-en/about/careers.html
+Boston Scientific,Medical Devices,https://jobs.bostonscientific.com/
+Abbott Laboratories,Healthcare,https://www.abbott.com/careers.html
+St. Jude Medical,Medical Devices,https://www.sjm.com/en/careers
+Baxter International Inc.,Healthcare,https://www.baxter.com/careers
+Becton, Dickinson and Company,Medical Technology,https://jobs.bd.com/
+Danaher Corporation,Industrial and Medical Devices,https://www.danahercareers.com/
+Thermo Fisher Scientific,Biotechnology Product Development,https://jobs.thermofisher.com/
+General Dynamics,Aerospace and Defense,https://www.gd.com/careers
+Northrop Grumman,Aerospace and Defense,https://www.northropgrumman.com/careers/
+Raytheon Technologies,Aerospace and Defense,https://jobs.rtx.com/
+Lockheed Martin,Aerospace and Defense,https://www.lockheedmartinjobs.com/
+BAE Systems,Defense, Security, and Aerospace,https://jobs.baesystems.com/global/en
+L3Harris Technologies,Technology and Defense,https://www.l3harris.com/careers
+Rolls-Royce Holdings,Aerospace and Defense,https://careers.rolls-royce.com/
+Safran,Aerospace and Defense,https://www.safran-group.com/join-us
+Alstom,Rail Transport,https://www.alstom.com/careers
+Bombardier,Aerospace and Transportation,https://jobs.bombardier.com/
+Caterpillar Inc.,Construction Machinery and Equipment,https://www.caterpillar.com/en/careers.html
+John Deere,Agricultural Machinery,https://www.deere.com/en/our-company/john-deere-careers/
+Kubota,Engineering and Water Treatment,https://www.kubota.com/careers/index.html
+Bridgestone,Auto and Truck Parts,https://www.bebridgestone.com/en_us/careers/
+Michelin,Tires,https://jobs.michelinman.com/
+Goodyear Tire and Rubber Company,Tires,https://corporate.goodyear.com/en-US/careers.html
+Continental AG,Automotive Parts,https://www.continental-jobs.com/
+Magna International,Automotive Parts,https://www.magna.com/company/careers
+Denso Corporation,Automotive Components,https://www.denso.com/us-ca/en/about-us/careers/
+Bosch,Engineering and Electronics,https://www.bosch.com/careers/
+Hitachi, Ltd.,Conglomerate,https://careers.hitachi.com/
+Toshiba,Conglomerate,https://www.toshiba.com/careers/

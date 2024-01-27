@@ -1,0 +1,113 @@
+entities:
+- entity: query_topic
+  description: The subject or topic of a user's query.
+  data_type: string
+- entity: location
+  description: Geographical locations such as cities, countries, or specific addresses.
+  data_type: string
+- entity: subject
+  description: The main subject or focus within a context, such as an email subject
+    or a research topic.
+  data_type: string
+- entity: action
+  description: An action to be performed, such as 'turn off' or 'play'.
+  data_type: string
+- entity: target
+  description: The target object of an action, such as 'lights' or 'music'.
+  data_type: string
+- entity: event_type
+  description: Type of event, such as 'meeting', 'appointment', or 'reminder'.
+  data_type: string
+- entity: participants
+  description: People involved in an event or action.
+  data_type: list
+- entity: date_time
+  description: Specific dates and times for scheduling events.
+  data_type: datetime
+- entity: item_to_update
+  description: An item or setting that needs to be updated.
+  data_type: string
+- entity: new_value
+  description: The new value for an updated item or setting.
+  data_type: string
+- entity: item_type
+  description: Type of item to be created, such as 'document', 'list', or 'profile'.
+  data_type: string
+- entity: content
+  description: Content or details pertaining to an item or message.
+  data_type: string
+- entity: destination
+  description: Intended destination for navigation or travel.
+  data_type: string
+- entity: comparison_targets
+  description: Items or options that are to be compared.
+  data_type: list
+- entity: criteria
+  description: Criteria or parameters for comparison or decision-making.
+  data_type: string
+- entity: help_topic
+  description: Specific topic or area where help or guidance is requested.
+  data_type: string
+- entity: job_title
+  description: Title of a job position for applications.
+  data_type: string
+- entity: company_name
+  description: Name of a company or organization.
+  data_type: string
+- entity: applicant_credentials
+  description: Credentials or qualifications of a job applicant.
+  data_type: string
+- entity: platform_name
+  description: Name of a social media or online platform.
+  data_type: string
+- entity: user_email
+  description: An email address associated with a user or account.
+  data_type: string
+- entity: personal_information
+  description: Personal details such as name, date of birth, or bio.
+  data_type: string
+- entity: email_action
+  description: Action to be taken on emails, such as 'reply', 'archive', or 'delete'.
+  data_type: string
+- entity: email_subject
+  description: Subject line or main topic of an email.
+  data_type: string
+- entity: report_topic
+  description: The main topic or subject of a report or research paper.
+  data_type: string
+- entity: journal_name
+  description: Name of an academic journal or publication.
+  data_type: string
+- entity: submission_deadline
+  description: Deadline for submitting documents or applications.
+  data_type: datetime
+- entity: project_name
+  description: Name or title of a project.
+  data_type: string
+- entity: funding_body
+  description: Organization or body providing funding or grants.
+  data_type: string
+- entity: trip_dates
+  description: Start and end dates for a trip or vacation.
+  data_type: datetime
+- entity: trip_type
+  description: Type of trip, such as 'business' or 'vacation'.
+  data_type: string
+- entity: software_name
+  description: Name of a software application or program.
+  data_type: string
+- entity: version
+  description: Specific version of a software or application.
+  data_type: string
+- entity: dependencies
+  description: Dependencies or prerequisites required for installing software.
+  data_type: list
+- entity: Location
+  description: Location description
+  data_type: string
+- entity: Date_Time
+  description: Date_Time description
+  data_type: string
+- entity: ORG
+  description: Description for ORG
+  data_type: string

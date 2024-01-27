@@ -1,0 +1,276 @@
+intents:
+  - intent: query_information
+    description: "Retrieve specific information based on user query."
+    examples:
+      - "What is the weather like in Paris today?"
+      - "Find the CEO of Company X."
+    entities:
+      - "query_topic"
+      - "location"
+      - "subject"
+
+  - intent: perform_action
+    description: "Execute a specific action or command."
+    examples:
+      - "Turn off the bedroom lights."
+      - "Play the next song."
+    entities:
+      - "action"
+      - "target"
+
+  - intent: schedule_event
+    description: "Schedule an event, appointment, or reminder."
+    examples:
+      - "Set a meeting with John tomorrow at 10 AM."
+      - "Remind me to call Sarah next Friday."
+    entities:
+      - "event_type"
+      - "participants"
+      - "date_time"
+
+  - intent: update_information
+    description: "Update or change existing information or settings."
+    examples:
+      - "Change my profile picture."
+      - "Update my home address to 123 Main St."
+    entities:
+      - "item_to_update"
+      - "new_value"
+
+  - intent: create_item
+    description: "Create a new item, entry, or document."
+    examples:
+      - "Create a new shopping list."
+      - "Draft an email about the quarterly report."
+    entities:
+      - "item_type"
+      - "content"
+
+  - intent: delete_item
+    description: "Delete or remove an existing item or entry."
+    examples:
+      - "Delete my draft email to Mark."
+      - "Remove the item from my shopping cart."
+    entities:
+      - "item"
+
+  - intent: navigation_command
+    description: "Navigate to a different section, page, or application."
+    examples:
+      - "Go back to the home screen."
+      - "Open my photo gallery."
+    entities:
+      - "destination"
+
+  - intent: comparison_query
+    description: "Compare items, options, or choices."
+    examples:
+      - "Which laptop model is better, A or B?"
+      - "Compare prices for flights to New York."
+    entities:
+      - "comparison_targets"
+      - "criteria"
+
+  - intent: confirmation
+    description: "Confirm an action, choice, or decision."
+    examples:
+      - "Yes, please proceed with the transaction."
+      - "I confirm my attendance at the event."
+    entities: []
+
+  - intent: cancellation
+    description: "Cancel or abort a current action or command."
+    examples:
+      - "Never mind, cancel that download."
+      - "Stop the alarm."
+    entities: []
+
+  - intent: help_request
+    description: "Request for help, guidance, or assistance."
+    examples:
+      - "How do I change my password?"
+      - "Help me connect to the Wi-Fi."
+    entities:
+      - "help_topic"
+
+  - intent: apply_to_job
+    description: "Automate the process of applying to a job posting online."
+    examples:
+      - "Apply to the listed Software Engineer position at TechCorp."
+      - "Fill out the job application for the Marketing Manager role at Innovate Inc."
+    entities:
+      - "job_title"
+      - "company_name"
+      - "applicant_credentials"
+
+  - intent: create_social_media_account
+    description: "Create a new account on a social media platform using personal information."
+    examples:
+      - "Sign up for a new Twitter account with my email."
+      - "Create a Facebook profile using my personal details."
+    entities:
+      - "platform_name"
+      - "user_email"
+      - "personal_information"
+
+  - intent: manage_emails
+    description: "Sort through emails, responding to specific ones and organizing the inbox."
+    examples:
+      - "Reply to all emails regarding the conference with a confirmation."
+      - "Archive all newsletters from last month."
+    entities:
+      - "email_action"
+      - "email_subject"
+      - "date_range"
+
+  - intent: schedule_appointments
+    description: "Schedule and confirm appointments or meetings via email and add them to Google Calendar."
+    examples:
+      - "Set up a meeting with Dr. Smith next Wednesday and send an invite."
+      - "Confirm the team meeting time and add it to my calendar."
+    entities:
+      - "meeting_with"
+      - "date_time"
+      - "meeting_agenda"
+
+  - intent: write_research_report
+    description: "Compose a research report on a given topic and submit it to an academic journal."
+    examples:
+      - "Draft a report on renewable energy trends and submit to the Journal of Green Technology."
+      - "Write an overview of AI advancements for submission to the Tech Innovations Journal."
+    entities:
+      - "report_topic"
+      - "journal_name"
+      - "submission_deadline"
+
+  - intent: prepare_grant_proposal
+    description: "Develop a grant proposal for a project and submit it to the relevant funding body."
+    examples:
+      - "Write a grant proposal for the community garden project and submit to the Local Green Fund."
+      - "Draft funding request for the school tech upgrade and send to the National Education Fund."
+    entities:
+      - "project_name"
+      - "funding_body"
+      - "proposal_details"
+
+  - intent: plan_trip
+    description: "Organize a trip, including booking, scheduling, and itinerary creation."
+    examples:
+      - "Plan a vacation to Italy for the first two weeks of July, including flights, hotels, and activities."
+      - "Arrange a business trip to San Francisco with all necessary reservations."
+    entities:
+      - "destination"
+      - "trip_dates"
+      - "trip_type"
+
+  - intent: install_software
+    description: "Automate the process of installing software, including finding and installing dependencies."
+    examples:
+      - "Install the latest version of Photoshop along with all required plugins."
+      - "Set up the development environment for Python with all necessary libraries."
+    entities:
+      - "software_name"
+      - "version"
+      - "dependencies"
+
+  - intent: automate_job_search
+    description: "Automate the search and notification for job postings matching specific criteria."
+    examples:
+      - "Notify me of new Data Science job postings in New York City."
+      - "Automatically apply to junior developer positions in tech startups."
+    entities:
+      - "job_field"
+      - "location"
+      - "experience_level"
+
+  - intent: book_travel_accommodations
+    description: "Find and book accommodations for a trip based on specified preferences."
+    examples:
+      - "Book a budget hotel near Times Square for my New York trip."
+      - "Reserve an Airbnb in downtown Paris with a view of the Eiffel Tower."
+    entities:
+      - "accommodation_type"
+      - "location"
+      - "preferences"
+
+  - intent: organize_conference_call
+    description: "Set up a conference call with multiple participants across different time zones."
+    examples:
+      - "Arrange a Zoom call with the product team in the US, UK, and India."
+      - "Schedule a Skype meeting for the project kickoff with international stakeholders."
+    entities:
+      - "conference_platform"
+      - "participants"
+      - "date_time"
+
+  - intent: conduct_market_research
+    description: "Perform market research on a specified topic or industry."
+    examples:
+      - "Compile a report on current mobile app trends in the health and fitness sector."
+      - "Research consumer preferences in eco-friendly packaging solutions."
+    entities:
+      - "research_topic"
+      - "industry"
+      - "report_format"
+
+  # More specific intents related to the additional tasks...
+
+  - intent: submit_academic_journal
+    description: "Submit written work, like a research report, to an academic journal."
+    examples:
+      - "Submit my thesis on urban sustainability to the Global Urban Studies Journal."
+      - "Send my article on renewable energy innovations to the Environmental Research Journal."
+    entities:
+      - "document_title"
+      - "journal_name"
+      - "submission_guidelines"
+
+  - intent: create_twitter_account
+    description: "Automate the creation of a Twitter account with specified user details."
+    examples:
+      - "Set up a new Twitter account with my email and preferred username."
+      - "Create a Twitter profile for my new blog with the provided bio and profile picture."
+    entities:
+      - "email_address"
+      - "username"
+      - "profile_details"
+
+  - intent: respond_to_invitations
+    description: "Automate responses to email invitations based on user's schedule and preferences."
+    examples:
+      - "Accept all meeting invites for next week except those marked as 'Optional'."
+      - "Decline invitations that conflict with my existing appointments."
+    entities:
+      - "response_action"
+      - "date_range"
+      - "preference_criteria"
+
+  - intent: draft_grant_application
+    description: "Automate the drafting of grant applications for specified projects and submit to relevant bodies."
+    examples:
+      - "Prepare a grant application for the urban renewal project and apply to the City Development Fund."
+      - "Draft an application for research funding on AI in education and submit to the Tech Innovation Board."
+    entities:
+      - "project_title"
+      - "funding_organization"
+      - "application_requirements"
+
+  - intent: organize_trip_itinerary
+    description: "Automate the planning and organization of trip itineraries, including activities, accommodations, and transport."
+    examples:
+      - "Plan a detailed itinerary for my two-week trip to Japan, including cultural sites, accommodations, and internal travel."
+      - "Create an itinerary for my business trip to Berlin, with scheduled meetings, recommended restaurants, and transport options."
+    entities:
+      - "destination"
+      - "trip_duration"
+      - "activity_preferences"
+
+  - intent: setup_software_environment
+    description: "Automate the setup of a software development environment, including IDEs, libraries, and tools."
+    examples:
+      - "Configure a Python development environment with Visual Studio Code, including necessary extensions and linters."
+      - "Set up a Docker container for web development with pre-configured Node.js, React, and MongoDB."
+    entities:
+      - "environment_type"
+      - "components"
+      - "configuration_settings"
